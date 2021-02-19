@@ -1,10 +1,10 @@
 {
   "name": "digi-bank-api",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Digital banking backend RESTApi developed in NestJS framework",
+  "author": "Bhavin Patel",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
